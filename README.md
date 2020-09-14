@@ -1,5 +1,7 @@
 # ChatApp
 
+This is a Live Chat App build with webpack and socket.io.
+
 To test the app, in the project directory, you can run:
 
 node index.js
